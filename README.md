@@ -1,2 +1,2 @@
 # demo2
-this i my another demo repository 
+this is my another demo repository 
